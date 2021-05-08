@@ -1,0 +1,42 @@
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormMain.resources
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\tisoh\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\tisoh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.brightnessForm.resources
+C:\Users\tisoh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.ContrastForm.resources
+C:\Users\tisoh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.About.resources
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\mscorlib.dll
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\normidna.nlp
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\normnfc.nlp
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\normnfd.nlp
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\normnfkc.nlp
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\normnfkd.nlp
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.About.resources
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.ContrastForm.resources
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormMain.resources
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.brightnessForm.resources
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.About.resources
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.ContrastForm.resources
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormMain.resources
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.brightnessForm.resources
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Documents\Bài giảng HS\Xử lý ảnh\ImageProcessing\Project C#\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
